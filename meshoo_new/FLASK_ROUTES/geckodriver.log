@@ -1,0 +1,105 @@
+1672598899797	geckodriver	INFO	Listening on 127.0.0.1:53183
+1672598903214	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofile5f0a5T"
+1672598907716	Marionette	INFO	Marionette enabled
+1672598907744	Marionette	INFO	Listening on port 53197
+Read port: 53197
+1672598911534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofile5f0a5T\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+1672598999932	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+JavaScript error: resource://devtools/client/framework/devtools.js, line 848: TypeError: inspector is undefined
+console.error: "Unable to find target with innerWindowId:6442450947"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error in enumIndexedProperties" (new Error("Can not send request 'enumProperties' because front 'obj' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: "Error in enumNonIndexedProperties" (new Error("Can not send request 'enumProperties' because front 'obj' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: "Error in enumSymbols" (new Error("Can not send request 'enumSymbols' because front 'obj' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new Error("Can not send request 'prototype' because front 'obj' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1672599475821	geckodriver	INFO	Listening on 127.0.0.1:53340
+1672599478768	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofilehllQcu"
+1672599480824	Marionette	INFO	Marionette enabled
+1672599480832	Marionette	INFO	Listening on port 53353
+Read port: 53353
+1672599480974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofilehllQcu\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+1672599496786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+1672599573276	Marionette	INFO	Stopped listening on port 53353
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 11932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 11932, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+ozprofilegck42y\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+1672599589338	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1672600526044	geckodriver	INFO	Listening on 127.0.0.1:53583
+1672600529052	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofileR69pjT"
+1672600530084	Marionette	INFO	Marionette enabled
+1672600530095	Marionette	INFO	Listening on port 53595
+Read port: 53595
+1672600530266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1672600571365	geckodriver	INFO	Listening on 127.0.0.1:53609
+1672600574376	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofileCK6OPC"
+1672600575353	Marionette	INFO	Marionette enabled
+1672600575361	Marionette	INFO	Listening on port 53622
+Read port: 53622
+1672600576142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofileCK6OPC\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+1672600591639	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1672600613744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1058: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1058: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1058: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1672600841399	geckodriver	INFO	Listening on 127.0.0.1:53736
+1672600844448	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofileshF652"
+1672600845261	Marionette	INFO	Marionette enabled
+1672600845273	Marionette	INFO	Listening on port 53749
+Read port: 53749
+1672600847691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofileshF652\\search.json.mozlz4", (void 0)))
+1672600892471	geckodriver	INFO	Listening on 127.0.0.1:53805
+1672600895489	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofileeXQndj"
+1672600896204	Marionette	INFO	Marionette enabled
+1672600896211	Marionette	INFO	Listening on port 53818
+Read port: 53818
+1672600897063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofileeXQndj\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+1672600994094	geckodriver	INFO	Listening on 127.0.0.1:53912
+1672600997109	mozrunner::runner	INFO	Running command: "C://Program Files//Mozilla Firefox//firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofilea3z7Sb"
+1672600997746	Marionette	INFO	Marionette enabled
+1672600997754	Marionette	INFO	Listening on port 53925
+Read port: 53925
+1672600997896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NOMANA~1\\AppData\\Local\\Temp\\rust_mozprofilea3z7Sb\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://supplier.meesho.com."
