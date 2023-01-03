@@ -1,2 +1,2 @@
 # Upwork_Freelance
-Uploading all upwork completede projects here
+Uploading all upwork completed projects here
